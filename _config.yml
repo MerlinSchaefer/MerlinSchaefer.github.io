@@ -29,7 +29,7 @@ twitter_username: MerlinSchafer
 github_username:  MerlinSchaefer
 linkedin_username: merlin-schäfer-aa2117186
 # Build settings
-theme: jekyll-theme-cayman
+theme: minima
 plugins:
   - jekyll-feed
 
