@@ -29,7 +29,8 @@ twitter_username: MerlinSchafer
 github_username:  MerlinSchaefer
 linkedin_username: merlin-schäfer-aa2117186
 # Build settings
-theme: minima
+#theme: minima
+remote_theme: thelehhman/texture
 plugins:
   - jekyll-feed
 
