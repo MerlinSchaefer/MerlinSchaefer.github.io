@@ -11,7 +11,7 @@ Machine Learning by Andrew Ng
 When you stumble across Machine Learning and AI, which, seeing how you are here, I assume you have, you might ask yourself: 
 - "Can I learn this?"
 - "Where can I learn this?"
-- "How much will time and money it cost me?"
+- "How much time and money will it cost me?"
 - etc.
 
 If you are not only keeping these questions in your head but ask someone or Google, you can't really "avoid" a recommendation to Andrew Ng's Machine Learning course on Coursera. For a reason.
