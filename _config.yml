@@ -20,16 +20,16 @@
 
 title: My Data Science and AI journey
 email: ms101196@googlemail.com
-description: >- # this means to ignore newlines until "baseurl:"
-  I created this blog to write about projects, inspire, find like-minded people,
-  receive constructive feedback and hold myself accountable.
+#description: >- # this means to ignore newlines until "baseurl:"
+#  I created this blog to write about projects, inspire, find like-minded people,
+#  receive constructive feedback and hold myself accountable.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: https://merlinschaefer.github.io # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: MerlinSchafer
-github_username:  MerlinSchaefer
-linkedin_username: merlin-schäfer-aa2117186
+#twitter_username: MerlinSchafer
+#github_username:  MerlinSchaefer
+#linkedin_username: merlin-schäfer-aa2117186
 # Build settings
-theme: minima
+theme:
 plugins:
   - jekyll-feed
 
