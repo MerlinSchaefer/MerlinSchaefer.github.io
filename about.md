@@ -8,7 +8,7 @@ order: 0
 ---
 
 My Name is Merlin Schäfer, based in Berlin and I am an aspiring Data Scientist.
-This is my blog about my journey through and into all things Data, Machine Learning and AI.
+**Right now the blog/website is under construction and will be converted to a portfolio website soon. To see what I have been up to visit me on** [GitHub](https://github.com/MerlinSchaefer) or [Medium](https://ms101196.medium.com/).
 If you want to know anything that you can't find within this blog, don't hesitate to contact me.
 
 
