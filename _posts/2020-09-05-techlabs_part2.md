@@ -11,13 +11,14 @@ berlinrents.live
 ### Finding a Project
 
 Throughout this summer I participated in the Techlabs Berlin Digital Shaper Program, which helped me built my skills in machine learning and AI. This is blog post is about the second part of the semester: the project phase.
-After finishing the [learning phase](https://merlinschaefer.github.io/courses/2020/08/25/techlabs_part1.html) of Techlabs it was time for all students to put their newly acquired skills to work within group projects.
+After finishing the learning phase of Techlabs it was time for all students to put their newly acquired skills to work within group projects.
 The projects were not just set projects for each track but came from us, students. Techlabs encouraged everybody to form ideas and come up with projects that would showcase the skills everyone had developed over the previous weeks.
 After we had some time to develop ideas they were pitched at a small event, and submitted to the Techlabs-Team.
 Everybody was asked to give a first, second, and third preference for the project they wanted to work on. Then the Techlabs-Team created the project teams.
 I actually pitched an idea, but was so convinced by the pitch of two fellow students, that I chose to work on their idea instead of mine.
 
 And so began the work on [berlinrents.live](https://drive.google.com/file/d/1R88lCPdal0uvbl1-JQneimi3uL7Mt173/view?usp=sharing).
+(Click on the link to view our presentation Video)
 
 ### Defining the Problem
 
