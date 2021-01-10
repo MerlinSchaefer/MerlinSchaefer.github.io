@@ -1,12 +1,19 @@
 ---
 layout: post
-title:  "Techlabs Berlin - Part Two: The Project Phase"
+title:  "Techlabs Berlin - The Project Phase: berlinrents.live"
 date: 2020-09-04 18:00:13 +0200
 categories: Projects
 ---
 
 berlinrents.live
 ====================
+
+**PLEASE NOTE** Unfortunately the original repository is private and owned by TechLabs, a team member uploaded the last version of it [here](https://github.com/livecitylab).
+
+The part I was most involved in, as described below was the rental price prediction, the functions for this task can be found [here](https://github.com/livecitylab/brl-flask)
+
+There is a short presentation video of the project [here](https://drive.google.com/file/d/1R88lCPdal0uvbl1-JQneimi3uL7Mt173/view?usp=sharing)
+
 
 ### Finding a Project
 
