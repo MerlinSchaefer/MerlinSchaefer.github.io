@@ -9,6 +9,7 @@ categories: Projects
 
 I used the Credit Card Fraud Detection dataset as provided on [kaggle](https://www.kaggle.com/mlg-ulb/creditcardfraud).
 
+The code can be found in this [repository](https://github.com/MerlinSchaefer/fraud_dectection)
 
 With this project I wanted to gain some experience with skewed data and outlier detection.
 I originally planned to build something interactive, yet I realized that the PCA-features wouldn't be a good fit for any user input etc.
