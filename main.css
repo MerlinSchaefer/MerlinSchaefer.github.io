@@ -17,7 +17,7 @@
 
 html{
     font-size: 10px;
-    font-family: 'Open Sans';
+    font-family: 'Open Sans',sans-serif;
     color: #c5c5c5;
 }
 
@@ -44,7 +44,7 @@ address {
   } 
 
 p{
-    font-family: 'Open Sans';
+    font-family: 'Open Sans',sans-serif;
     line-height: .6cm;
     font-size: 1.8rem;
     font-weight: 100;
@@ -233,7 +233,7 @@ li{
 
 .landing-text h1{
     font-size: 13rem;
-    font-family: 'Open Sans',sans-serif;
+    font-family: sans-serif;
     background: linear-gradient(#c9ab05,#daa520);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
@@ -435,7 +435,7 @@ li{
 }
 
 .my-skills{
-    font-family: "Open Sans";
+    font-family: sans-serif;
     position: relative;
     margin-top: 2rem;
     display: grid;
