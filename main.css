@@ -44,10 +44,10 @@ address {
   } 
 
 p{
-    font-family: 'Gotham Medium', sans-serif;
+    font-family: 'Open Sans';
     line-height: .6cm;
     font-size: 1.8rem;
-    font-weight: 200;
+    font-weight: 100;
 }
 
 img{
