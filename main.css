@@ -425,7 +425,7 @@ li{
     top: 55rem;
     height: 10%;
     width: 15%;
-    rotate: 45deg;
+    transform:rotate(45deg);
     
 }
 
