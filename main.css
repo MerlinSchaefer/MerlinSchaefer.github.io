@@ -448,7 +448,6 @@ li{
 .services-img{
     position: absolute;
     left:-10%;
-    top: 55rem;
     height: 10%;
     width: 15%;
     transform: rotate(45deg);
@@ -897,10 +896,7 @@ color:#5429DA;
         top: 50rem;
     }
 
-    .services-img{
-        top: 100rem;
-     
-    }
+    
     .my-skills{
         /* border-top: 4px solid #c9ab05;    */
         position: relative;
@@ -1125,7 +1121,8 @@ color:#5429DA;
     .services-img{
         width: 22%;
         height: 15%;
-        top: 110rem;
+        left: -35%;
+        top: -5%;
     }
 
     .profile-img{
