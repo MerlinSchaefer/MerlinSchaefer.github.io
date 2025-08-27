@@ -15,13 +15,14 @@
 
 html{
     font-size: 10px;
-    font-family: 'Open Sans';
+    font-family: 'Inter', 'Open Sans', Arial, sans-serif;
     color: #c5c5c5;
 }
 
 body{
     width: 100%;
     height: 100%;
+    font-family: 'Inter', 'Open Sans', Arial, sans-serif;
     /* background: #004225 no-repeat center fixed; */
     background: #EBEBEB no-repeat center fixed;
     background-size: cover;
@@ -475,19 +476,38 @@ li{
 }
 
 .my-skills{
-    font-family: "Arial";
+    font-family: "Inter", Arial, sans-serif;
     position: relative;
     margin-top: 2rem;
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(15rem,1fr));
-    grid-gap: 3rem;
-    text-align: justify;
-}
-.skill{
     display: flex;
     flex-direction: column;
-    justify-content: left;
-    align-items: left;
+    gap: 3rem;
+    text-align: justify;
+}
+
+.skill {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    /*align-items: stretch; /* or remove this line */
+    background: #fff;
+    border-radius: 1rem;
+    box-shadow: 0 2px 8px rgba(25,89,179,0.06);
+    padding: 2.5rem;
+    position: relative;
+}
+
+.skill:last-child {
+    margin-bottom: 0;
+}
+
+
+.skill h3,
+.skill h1,
+.skill p {
+    margin-left: 0;
+    margin-right: 2.5rem;
+    margin-bottom: 2.5rem;
 }
 
 .skill h3{
@@ -507,8 +527,8 @@ li{
 
 .my-skills .skill{
     border-right: none;
-    margin-right:  1rem;
-    padding-right: 1rem;
+    margin-right: 0;
+    padding-right: 0;
     position: relative;
 }
 
@@ -521,16 +541,14 @@ li{
 
 
 .my-skills .skill::before,
-.my-skills .skill::after{
+.my-skills .skill::after {
+    left: -1rem;
     position: absolute;
     display: grid;
-    left: 0%;
     transform: translateX(-50%);
 }
 
-
-
-.my-skills .skill::after{
+.my-skills .skill::after {
     top: -1rem;
     content: '';
     box-shadow: 0 0 0 0px #8a7fac;
@@ -949,8 +967,8 @@ color:#5429DA;
     
     .my-skills .skill{
         border-right: none;
-        margin-right:  0rem;
-        padding-right: 0rem;
+        margin-right: 0;
+        padding-right: 0;
         position: relative;
     }
     
@@ -963,10 +981,10 @@ color:#5429DA;
     
     
     .my-skills .skill::before,
-    .my-skills .skill::after{
+    .my-skills .skill::after {
+        left: -1rem;
         position: absolute;
         display: grid;
-        left: 0%;
         transform: translateX(-50%);
     }
     .my-skills a{
@@ -1128,6 +1146,7 @@ color:#5429DA;
         flex-direction: column;
         justify-content: left;
         align-items: left;
+         
     }
     
     .skill h3{
@@ -1142,8 +1161,8 @@ color:#5429DA;
     
     .my-skills .skill{
         border-right: none;
-        margin-right:  1rem;
-        padding-right: 1rem;
+        margin-right: 0;
+        padding-right: 0;
         position: relative;
     }
     
@@ -1159,10 +1178,10 @@ color:#5429DA;
         font-size: 1.5rem;
     }
     .my-skills .skill::before,
-    .my-skills .skill::after{
+    .my-skills .skill::after {
+        left: -1rem;
         position: absolute;
         display: grid;
-        left: 0%;
         transform: translateX(-50%);
     }
     
@@ -1302,4 +1321,4 @@ color:#5429DA;
 }
 
 
-/*End media queries*/
+/*End media queries*
